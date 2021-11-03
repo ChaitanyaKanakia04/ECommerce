@@ -1,2 +1,2 @@
-# ECommerce
-My first react application
+# React-Tutorial
+Learning react from scratch
